@@ -1,11 +1,22 @@
-# Diana Mayalo
+# 👋 Hi, I'm Diana Mayalo
 
-Welcome to my data science and analytics portfolio. I specialize in transforming complex datasets into actionable insights through machine learning, data visualization, and domain-specific analysis. My background spans healthcare informatics, social impact analytics, and predictive modeling.
+📍 Nairobi, Kenya | 📧 dianamayalo28@gmail.com | 🌐 [GitHub](https://github.com/DianaMayalo) | 💼 [LinkedIn](https://www.linkedin.com/in/dianamayalo22/)
+
+Welcome to my data science and analytics portfolio. I specialize in applying statistical analysis, machine learning, and data visualization to solve real-world problems. With a strong foundation in actuarial science and ongoing training in data science, I bring both mathematical rigor and analytical creativity to every project.
+
+---
+
+## 💼 About Me
+
+I am a Junior Data Scientist with hands-on experience in Python, SQL, Power BI, Tableau, and machine learning techniques. I have applied these skills in professional and freelance roles to deliver actionable insights, build predictive models, and create interactive dashboards for clients across sectors like healthcare, sports analytics, and aviation safety.
+
+---
+
 
 ## 🎓 Education
-- MSc in Data Analytics (Ongoing)
-- BS in Nursing Informatics
-- Certified in Microsoft Power BI and SQL Fundamentals
+- Data Science (Ongoing)
+- BSc Actuarial Science
+- Certified in: Google Data Analytics, Google AI Essentials, Microsoft Excel Expert, ALX AI Career Essentials 
 
 ## 🔧 Technical Skills
 - **Programming:** Python (Pandas, NumPy, Scikit-learn, Streamlit), R, SQL
@@ -32,12 +43,16 @@ Analyzed aviation accidents from 1962–2023 using NTSB data. Uncovered trends i
 
 
 
-## 🧠 Interests
-- Public Health Data & Social Impact
-- Predictive Modeling & Machine Learning
-- Ethical AI & Responsible Tech
-- Data-Driven Decision Making
+## 🔧 Technical Skills
+
+**Languages:** Python (Pandas, NumPy, Scikit-learn), R, SQL  
+**Visualization:** Power BI, Tableau, Seaborn, Matplotlib  
+**Tools & Platforms:** Excel (Advanced), Git & GitHub, Jupyter, Power Query  
+**Techniques:** Data Cleaning • EDA • Classification • Regression • Model Tuning • Statistical Modeling • Feature Engineering  
+
+---
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/dianamayalo22/)
-- 📧 [Email](dianamayalo28@gmail.com)
+- [GitHub](https://github.com/DianaMayalo)  
+- [LinkedIn](https://www.linkedin.com/in/dianamayalo22/)  
+- 📧 [Email Me](mailto:dianamayalo28@gmail.com)
